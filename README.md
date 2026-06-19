@@ -326,7 +326,7 @@ fn task8() {
 ```
 
 ### Результаты работы программы  
-
+https://github.com/amaliaberdukova11-09/Rust-Lab-1/blob/main/task1.png 
 --- 
 
 ### Информация о студенте  
